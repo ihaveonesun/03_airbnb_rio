@@ -1,0 +1,8 @@
+os arquivos estão localizados nesse endereço:
+
+https://www.kaggle.com/allanbruno/airbnb-rio-de-janeiro
+
+após baixar, insira os arquivos na subpasta 'dataset'
+
+Os mesmos estão separados por meses, e vão desde 2019 à 2020. 
+Não foi usado dataset total_data.csv
